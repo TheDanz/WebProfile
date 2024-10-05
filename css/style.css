@@ -30,3 +30,18 @@ body {
 .title_photo {
     text-align: center;
 }
+
+.cat_button {
+    text-align: center;
+}
+
+#my_cat_button {
+    border: none;
+    border-radius: 12px;
+    width: 250px;
+    height: 40px;
+    background-color:chocolate;
+    color: bisque;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
