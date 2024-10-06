@@ -35,7 +35,7 @@ body {
     text-align: center;
 }
 
-#my_cat_button {
+.orange_button {
     border: none;
     border-radius: 12px;
     width: 250px;
@@ -44,4 +44,24 @@ body {
     color: bisque;
     font-weight: bold;
     margin-bottom: 30px;
+}
+
+.continue_button {
+    margin-left: -12px;
+    width: 400px;
+}
+
+.index {
+    text-align: center;
+}
+
+.form_reg {
+    width: 400px;
+    margin-bottom: 10px;
+}
+
+.form_post {
+    width: 400px;
+    margin-left: -12px;
+    margin-bottom: 10px;
 }
